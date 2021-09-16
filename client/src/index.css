@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Varela&family=Varela+Round&display=swap");
+
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0 !important;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
